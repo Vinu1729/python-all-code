@@ -1,0 +1,1 @@
+print("2 raised to 5",pow(2,5))
